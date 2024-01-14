@@ -1,6 +1,6 @@
 # Water-Quality-Prediction
 
-It's a Ml model where water quality is predicted using various algorithm like 'Logistic Regression' , 'Decision Tree' , 'Random Forest Classifier' , 'KNN' , 'SVM' , 'AdaBoost' , 'XGBoost'. There results are analysed after prediction.
+It's an ML model where water quality is predicted using various algorithms like 'Logistic Regression', 'Decision Tree', 'Random Forest Classifier', 'KNN', 'SVM', 'AdaBoost', 'XGBoost'. The results are analyzed after prediction.
 ***
 
 ## Requirements
