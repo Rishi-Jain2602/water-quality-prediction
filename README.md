@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ## Model Training
 ### Data Source 
-Water Quality Data - he primary dataset used for this analysis is the " water_potability.csv" file, containing detailed information about water qualtiy means the ph scale , hardness , Turbidity etc.
+Water Quality Data - The primary dataset used for this analysis is the " water_potability.csv" file, containing detailed information about water qualitiy like the ph scale , hardness , Turbidity etc.
 
 ### Data Cleaning/Preparation
 In the initial data preparation phase, we performed the following tasks:
