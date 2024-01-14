@@ -1,1 +1,1 @@
-pandas , sklearn ,numpy , matplotlib ,seaborn
+pandas , sklearn ,numpy , matplotlib ,seaborn ,plotly
